@@ -22,7 +22,6 @@ Successfully developed Many Websites and E-commerce Website solutions, you can v
 
 ✅ Javascript   ✅  React   ✅  NodeJS  ✅  Express   ✅  MongoDB   ✅  Tailwind CSS   ✅  Bootstrap   ✅  Framer Motion   ✅  GIT
 
-https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IbrahimGazi2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahimthecoder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/IbrahimTheCoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCDZtmyxM_yDCA5_pMpUFFEg)  
 
