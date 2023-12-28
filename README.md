@@ -16,17 +16,12 @@ I think Coding is not easy to learn for everyone ( Personal Opinion ). It was mo
 ✮ Javascript: Have a great experience building various things with JavaScript.
 ✮ Database: Mastering databases to empower seamless data management and efficiency.
 ✮ BackEnd: Can develop the backend side as well.
+Successfully developed Many Websites and E-commerce Website solutions, you can visit my portfolio.
 
 ➡ Things I Code With
 
 ✅ Javascript   ✅  React   ✅  NodeJS  ✅  Express   ✅  MongoDB   ✅  Tailwind CSS   ✅  Bootstrap   ✅  Framer Motion   ✅  GIT
 
-Successfully developed Many Websites and E-commerce Website solutions, you can visit my portfolio.
-
-Regards,
-Md. Ibrahim Gazi
-
-Skills: REACT / JS / HTML / CSS / TAILWIND CSS / BOOTSTRAP / NODEJS / EXPRESS / MONGODB
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IbrahimGazi2022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahimthecoder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/IbrahimTheCoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCDZtmyxM_yDCA5_pMpUFFEg)  
