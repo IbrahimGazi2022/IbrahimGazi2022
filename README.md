@@ -1,7 +1,7 @@
 
 
 # I am Ibrahim Gazi
-## 🚀 Front End Developer | JavaScript | Reactjs | Material UI | Tailwind | Bootstrap | CSS | HTML
+## 🚀 Front End Developer | JavaScript | Reactjs | Material UI | Ant Design | Tailwind | Bootstrap 
 
 Hello Everyone,
 My name is Ibrahim Gazi.I worked as a Front-end Developer. I just want to share my starting journey as a web developer. To tell the truth, I never imagined introducing myself as a web developer. Because I just wanted to make a website for my office to keep track of our remaining bills. But with time a love for coding started to develop. Then I am serious about web development. I am constantly striving to improve myself as a Web developer. Last 2 Years I have become familiar with all the technologies of this stock. But now, I feel I am ready to do work internationally.
